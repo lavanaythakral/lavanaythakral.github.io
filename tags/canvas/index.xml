@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canvas on </title>
+    <link>https://lavanaythakral.github.io/tags/canvas/</link>
+    <description>Recent content in Canvas on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Dec 2020 01:24:24 +0530</lastBuildDate><atom:link href="https://lavanaythakral.github.io/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Approach towards a better transition between html5 videos</title>
+      <link>https://lavanaythakral.github.io/post/video-transition-js/</link>
+      <pubDate>Sun, 27 Dec 2020 01:24:24 +0530</pubDate>
+      
+      <guid>https://lavanaythakral.github.io/post/video-transition-js/</guid>
+      <description>&lt;p&gt;An approach to switch videos dynamically in the same video element by changing the source and smoothen that transition using a canvas.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
